@@ -12,8 +12,3 @@ for i in range(N):
     else:
         n=n+l[i][1]
 print(n)
-
-
-
-# print(l)
-# print(type(l))
